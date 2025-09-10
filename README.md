@@ -16,7 +16,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwanjali123&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali3242&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanjali123&layout=compact&theme=default)  
 
 ---
