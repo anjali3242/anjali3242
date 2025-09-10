@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Vishwanjali  
 
-<!--
-**anjali3242/anjali3242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 Currently learning **Python, SQL, Power BI, and Machine Learning**  
+- 🔭 Working on projects like a **Faculty Tracking App** and **Data Dashboards**  
+- 💬 Ask me about **Python, Excel, Data Visualization, and ML basics**  
+- ⚡ Fun fact: I enjoy solving real-world problems with technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks**: React, Node.js  
+- **Tools**: Git, Excel, Power BI  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoppulaVishwanjali&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoppulaVishwanjali&layout=compact&theme=default)  
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/koppula-vishwanjali-b7a38928b/)  
+- 📧 Email: vishwanjalikoppula@gmail.com  
